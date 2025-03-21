@@ -10,8 +10,7 @@ A React-based movie application built with Vite and ESLint.
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
-- [ESLint Configuration](#eslint-configuration)
-- [License](#license)
+
 ## Introduction
 This project is a movie application built with React, Vite, and Material-UI. It allows users to search for movies, view movie details, and add movies to a cart.
 ## Features
